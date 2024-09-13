@@ -1,4 +1,4 @@
-**Money Transfering app **
+**Money Transfering app**
 
 
 **Technologies Used**
