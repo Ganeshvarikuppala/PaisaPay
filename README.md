@@ -5,4 +5,4 @@
 Frontend: React, JSX, CSS
 Backend: Node.js, Express.js
 Database: MongoDB
-Authentication: (Optional) Implement authentication using JWT or other methods.
+Authentication:Implemented authentication using JWT.
